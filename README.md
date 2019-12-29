@@ -8,6 +8,6 @@ Even people who have never created their own Wi-Fi hotspot before should find th
 Although some software of this type have more features to use, Hotspoter works quickly and efficiently and delivers exactly what it promises. As this software is completely free to download and use, anyone who is search for a connection solution should make sure that they put Hotspoter through its paces.
 
 # As Featured On
-  ## Softonic : https://hotspoter.en.softonic.com
-  ## CNET     : https://download.cnet.com/Hotspoter/3000-18508_4-76462434.html
-    and 100+ websites.
+    Softonic : https://hotspoter.en.softonic.com
+    CNET     : https://download.cnet.com/Hotspoter/3000-18508_4-76462434.html
+        ## and 100+ websites.
