@@ -10,4 +10,4 @@ Although some software of this type have more features to use, Hotspoter works q
 # As Featured On
     Softonic : https://hotspoter.en.softonic.com
     CNET     : https://download.cnet.com/Hotspoter/3000-18508_4-76462434.html
-        ## and 100+ websites.
+   and 100+ websites.
