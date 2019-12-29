@@ -1,4 +1,6 @@
 ![alt text](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/88ea9fca-9b53-11e6-8a76-00163ed833e7/678505331/undefined-logo.png)
+
+*Wifi Hotspot Creator was later on renamed to Hotspoter-v4
 # Hotspoter-V4
 Hotspoter is special software that allows users to transform their computer into a wireless router. This is ideal for people who are looking for a way to use their existing internet connection to surf on their Smartphone, while the connection can also be shared with a large number of different people at the same time without weakening the signal strength.
 
